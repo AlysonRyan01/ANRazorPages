@@ -1,0 +1,20 @@
+{
+  "Version": 1,
+  "Hash": "0hdwnRlhmww9sdt4oSuLbl0CeV9nE/PLl7IHHX1UYpU=",
+  "Source": "ANRazorPages",
+  "BasePath": "_content/ANRazorPages",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "ANRazorPages/wwwroot",
+      "Source": "ANRazorPages",
+      "ContentRoot": "/Users/alysonryanullirsch/Documents/ProjetosCsharp/ANRazorPages/wwwroot/",
+      "BasePath": "_content/ANRazorPages",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [],
+  "Endpoints": []
+}
