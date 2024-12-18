@@ -1,0 +1,14 @@
+@page "/categorias"
+@model ANRazorPages.Pages.Categories
+@{
+    ViewData["Title"] = "Categorias";
+}
+
+<h1>Categorias</h1>
+@foreach (var category in Model.CategoryList)
+{
+    <hr/>
+    <p>ID: @category.Id</p>
+    <p>Titulo: @category.Title</p>
+    <p>Preco: @category.Price</p>
+}
