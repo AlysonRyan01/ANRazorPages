@@ -1,0 +1,33 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\GitHubRepository\\ANRazorPages\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\ANRazorPages.bundle.scp.css",
+      "PackagePath": "staticwebassets\\ANRazorPages.hp2bjvscjj.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\GitHubRepository\\ANRazorPages\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.ANRazorPages.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.ANRazorPages.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.build.ANRazorPages.props",
+      "PackagePath": "build\\ANRazorPages.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildMultiTargeting.ANRazorPages.props",
+      "PackagePath": "buildMultiTargeting\\ANRazorPages.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildTransitive.ANRazorPages.props",
+      "PackagePath": "buildTransitive\\ANRazorPages.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "0hdwnRlhmww9sdt4oSuLbl0CeV9nE/PLl7IHHX1UYpU=",
+  "Hash": "GvCTTA2Zg5tjwUS1lMi5MWg4xb1aE+elTrsLrkj76lk=",
   "Source": "ANRazorPages",
   "BasePath": "_content/ANRazorPages",
   "Mode": "Default",
@@ -8,13 +8,1035 @@
   "ReferencedProjectsConfiguration": [],
   "DiscoveryPatterns": [
     {
-      "Name": "ANRazorPages/wwwroot",
+      "Name": "ANRazorPages\\wwwroot",
       "Source": "ANRazorPages",
-      "ContentRoot": "/Users/alysonryanullirsch/Documents/ProjetosCsharp/ANRazorPages/wwwroot/",
+      "ContentRoot": "D:\\GitHubRepository\\ANRazorPages\\wwwroot\\",
       "BasePath": "_content/ANRazorPages",
       "Pattern": "**"
     }
   ],
-  "Assets": [],
-  "Endpoints": []
+  "Assets": [
+    {
+      "Identity": "D:\\GitHubRepository\\ANRazorPages\\obj\\Debug\\net9.0\\compressed\\4g4a11lnco-ho8pgamrxr.gz",
+      "SourceId": "ANRazorPages",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\GitHubRepository\\ANRazorPages\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/ANRazorPages",
+      "RelativePath": "css/site#[.{fingerprint=ho8pgamrxr}]?.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "D:\\GitHubRepository\\ANRazorPages\\wwwroot\\css\\site.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "oa39i4v44u",
+      "Integrity": "8ErmuDKzoB1pIakEI5E3G6dOGscWhwkjhB0HbvoUo60=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "D:\\GitHubRepository\\ANRazorPages\\wwwroot\\css\\site.css"
+    },
+    {
+      "Identity": "D:\\GitHubRepository\\ANRazorPages\\obj\\Debug\\net9.0\\compressed\\rx9viuxh58-hp2bjvscjj.gz",
+      "SourceId": "ANRazorPages",
+      "SourceType": "Computed",
+      "ContentRoot": "D:\\GitHubRepository\\ANRazorPages\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/ANRazorPages",
+      "RelativePath": "ANRazorPages#[.{fingerprint=hp2bjvscjj}]!.bundle.scp.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "Reference",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "D:\\GitHubRepository\\ANRazorPages\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\ANRazorPages.bundle.scp.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "up9xzdz38g",
+      "Integrity": "cvZE4Atygmt183z6hiWCzOtkp1wgCmnTnR+3YwJrOF4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "D:\\GitHubRepository\\ANRazorPages\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\ANRazorPages.bundle.scp.css"
+    },
+    {
+      "Identity": "D:\\GitHubRepository\\ANRazorPages\\obj\\Debug\\net9.0\\compressed\\ub7tnweqe1-hp2bjvscjj.gz",
+      "SourceId": "ANRazorPages",
+      "SourceType": "Computed",
+      "ContentRoot": "D:\\GitHubRepository\\ANRazorPages\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/ANRazorPages",
+      "RelativePath": "ANRazorPages#[.{fingerprint=hp2bjvscjj}]?.styles.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "CurrentProject",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "D:\\GitHubRepository\\ANRazorPages\\obj\\Debug\\net9.0\\scopedcss\\bundle\\ANRazorPages.styles.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "up9xzdz38g",
+      "Integrity": "cvZE4Atygmt183z6hiWCzOtkp1wgCmnTnR+3YwJrOF4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "D:\\GitHubRepository\\ANRazorPages\\obj\\Debug\\net9.0\\scopedcss\\bundle\\ANRazorPages.styles.css"
+    },
+    {
+      "Identity": "D:\\GitHubRepository\\ANRazorPages\\obj\\Debug\\net9.0\\scopedcss\\bundle\\ANRazorPages.styles.css",
+      "SourceId": "ANRazorPages",
+      "SourceType": "Computed",
+      "ContentRoot": "D:\\GitHubRepository\\ANRazorPages\\obj\\Debug\\net9.0\\scopedcss\\bundle\\",
+      "BasePath": "_content/ANRazorPages",
+      "RelativePath": "ANRazorPages#[.{fingerprint}]?.styles.css",
+      "AssetKind": "All",
+      "AssetMode": "CurrentProject",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ApplicationBundle",
+      "Fingerprint": "hp2bjvscjj",
+      "Integrity": "dXHYKhJH21Apubfn0qX8HqmkzPMcw9aFxrQz5YxiCIs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "D:\\GitHubRepository\\ANRazorPages\\obj\\Debug\\net9.0\\scopedcss\\bundle\\ANRazorPages.styles.css"
+    },
+    {
+      "Identity": "D:\\GitHubRepository\\ANRazorPages\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\ANRazorPages.bundle.scp.css",
+      "SourceId": "ANRazorPages",
+      "SourceType": "Computed",
+      "ContentRoot": "D:\\GitHubRepository\\ANRazorPages\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\",
+      "BasePath": "_content/ANRazorPages",
+      "RelativePath": "ANRazorPages#[.{fingerprint}]!.bundle.scp.css",
+      "AssetKind": "All",
+      "AssetMode": "Reference",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ProjectBundle",
+      "Fingerprint": "hp2bjvscjj",
+      "Integrity": "dXHYKhJH21Apubfn0qX8HqmkzPMcw9aFxrQz5YxiCIs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "D:\\GitHubRepository\\ANRazorPages\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\ANRazorPages.bundle.scp.css"
+    },
+    {
+      "Identity": "D:\\GitHubRepository\\ANRazorPages\\wwwroot\\css\\site.css",
+      "SourceId": "ANRazorPages",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\GitHubRepository\\ANRazorPages\\wwwroot\\",
+      "BasePath": "_content/ANRazorPages",
+      "RelativePath": "css/site#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ho8pgamrxr",
+      "Integrity": "MZDvCYM0BrB1ak74Oe/VCMHRfA0MHqaMcze1pqEL2dY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\site.css"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "ANRazorPages.bundle.scp.css",
+      "AssetFile": "D:\\GitHubRepository\\ANRazorPages\\obj\\Debug\\net9.0\\compressed\\rx9viuxh58-hp2bjvscjj.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.008547008547"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "116"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"cvZE4Atygmt183z6hiWCzOtkp1wgCmnTnR+3YwJrOF4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 19 Dec 2024 00:21:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"dXHYKhJH21Apubfn0qX8HqmkzPMcw9aFxrQz5YxiCIs=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-dXHYKhJH21Apubfn0qX8HqmkzPMcw9aFxrQz5YxiCIs="
+        }
+      ]
+    },
+    {
+      "Route": "ANRazorPages.bundle.scp.css",
+      "AssetFile": "D:\\GitHubRepository\\ANRazorPages\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\ANRazorPages.bundle.scp.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "101"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"dXHYKhJH21Apubfn0qX8HqmkzPMcw9aFxrQz5YxiCIs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 19 Dec 2024 00:21:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-dXHYKhJH21Apubfn0qX8HqmkzPMcw9aFxrQz5YxiCIs="
+        }
+      ]
+    },
+    {
+      "Route": "ANRazorPages.bundle.scp.css.gz",
+      "AssetFile": "D:\\GitHubRepository\\ANRazorPages\\obj\\Debug\\net9.0\\compressed\\rx9viuxh58-hp2bjvscjj.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "116"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"cvZE4Atygmt183z6hiWCzOtkp1wgCmnTnR+3YwJrOF4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 19 Dec 2024 00:21:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-cvZE4Atygmt183z6hiWCzOtkp1wgCmnTnR+3YwJrOF4="
+        }
+      ]
+    },
+    {
+      "Route": "ANRazorPages.hp2bjvscjj.bundle.scp.css",
+      "AssetFile": "D:\\GitHubRepository\\ANRazorPages\\obj\\Debug\\net9.0\\compressed\\rx9viuxh58-hp2bjvscjj.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.008547008547"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "116"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"cvZE4Atygmt183z6hiWCzOtkp1wgCmnTnR+3YwJrOF4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 19 Dec 2024 00:21:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"dXHYKhJH21Apubfn0qX8HqmkzPMcw9aFxrQz5YxiCIs=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "hp2bjvscjj"
+        },
+        {
+          "Name": "label",
+          "Value": "ANRazorPages.bundle.scp.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-dXHYKhJH21Apubfn0qX8HqmkzPMcw9aFxrQz5YxiCIs="
+        }
+      ]
+    },
+    {
+      "Route": "ANRazorPages.hp2bjvscjj.bundle.scp.css",
+      "AssetFile": "D:\\GitHubRepository\\ANRazorPages\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\ANRazorPages.bundle.scp.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "101"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"dXHYKhJH21Apubfn0qX8HqmkzPMcw9aFxrQz5YxiCIs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 19 Dec 2024 00:21:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "hp2bjvscjj"
+        },
+        {
+          "Name": "label",
+          "Value": "ANRazorPages.bundle.scp.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-dXHYKhJH21Apubfn0qX8HqmkzPMcw9aFxrQz5YxiCIs="
+        }
+      ]
+    },
+    {
+      "Route": "ANRazorPages.hp2bjvscjj.bundle.scp.css.gz",
+      "AssetFile": "D:\\GitHubRepository\\ANRazorPages\\obj\\Debug\\net9.0\\compressed\\rx9viuxh58-hp2bjvscjj.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "116"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"cvZE4Atygmt183z6hiWCzOtkp1wgCmnTnR+3YwJrOF4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 19 Dec 2024 00:21:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "hp2bjvscjj"
+        },
+        {
+          "Name": "label",
+          "Value": "ANRazorPages.bundle.scp.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-cvZE4Atygmt183z6hiWCzOtkp1wgCmnTnR+3YwJrOF4="
+        }
+      ]
+    },
+    {
+      "Route": "ANRazorPages.hp2bjvscjj.styles.css",
+      "AssetFile": "D:\\GitHubRepository\\ANRazorPages\\obj\\Debug\\net9.0\\compressed\\ub7tnweqe1-hp2bjvscjj.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.008547008547"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "116"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"cvZE4Atygmt183z6hiWCzOtkp1wgCmnTnR+3YwJrOF4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 19 Dec 2024 00:21:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"dXHYKhJH21Apubfn0qX8HqmkzPMcw9aFxrQz5YxiCIs=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "hp2bjvscjj"
+        },
+        {
+          "Name": "label",
+          "Value": "ANRazorPages.styles.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-dXHYKhJH21Apubfn0qX8HqmkzPMcw9aFxrQz5YxiCIs="
+        }
+      ]
+    },
+    {
+      "Route": "ANRazorPages.hp2bjvscjj.styles.css",
+      "AssetFile": "D:\\GitHubRepository\\ANRazorPages\\obj\\Debug\\net9.0\\scopedcss\\bundle\\ANRazorPages.styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "101"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"dXHYKhJH21Apubfn0qX8HqmkzPMcw9aFxrQz5YxiCIs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 19 Dec 2024 00:21:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "hp2bjvscjj"
+        },
+        {
+          "Name": "label",
+          "Value": "ANRazorPages.styles.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-dXHYKhJH21Apubfn0qX8HqmkzPMcw9aFxrQz5YxiCIs="
+        }
+      ]
+    },
+    {
+      "Route": "ANRazorPages.hp2bjvscjj.styles.css.gz",
+      "AssetFile": "D:\\GitHubRepository\\ANRazorPages\\obj\\Debug\\net9.0\\compressed\\ub7tnweqe1-hp2bjvscjj.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "116"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"cvZE4Atygmt183z6hiWCzOtkp1wgCmnTnR+3YwJrOF4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 19 Dec 2024 00:21:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "hp2bjvscjj"
+        },
+        {
+          "Name": "label",
+          "Value": "ANRazorPages.styles.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-cvZE4Atygmt183z6hiWCzOtkp1wgCmnTnR+3YwJrOF4="
+        }
+      ]
+    },
+    {
+      "Route": "ANRazorPages.styles.css",
+      "AssetFile": "D:\\GitHubRepository\\ANRazorPages\\obj\\Debug\\net9.0\\compressed\\ub7tnweqe1-hp2bjvscjj.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.008547008547"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "116"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"cvZE4Atygmt183z6hiWCzOtkp1wgCmnTnR+3YwJrOF4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 19 Dec 2024 00:21:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"dXHYKhJH21Apubfn0qX8HqmkzPMcw9aFxrQz5YxiCIs=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-dXHYKhJH21Apubfn0qX8HqmkzPMcw9aFxrQz5YxiCIs="
+        }
+      ]
+    },
+    {
+      "Route": "ANRazorPages.styles.css",
+      "AssetFile": "D:\\GitHubRepository\\ANRazorPages\\obj\\Debug\\net9.0\\scopedcss\\bundle\\ANRazorPages.styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "101"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"dXHYKhJH21Apubfn0qX8HqmkzPMcw9aFxrQz5YxiCIs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 19 Dec 2024 00:21:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-dXHYKhJH21Apubfn0qX8HqmkzPMcw9aFxrQz5YxiCIs="
+        }
+      ]
+    },
+    {
+      "Route": "ANRazorPages.styles.css.gz",
+      "AssetFile": "D:\\GitHubRepository\\ANRazorPages\\obj\\Debug\\net9.0\\compressed\\ub7tnweqe1-hp2bjvscjj.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "116"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"cvZE4Atygmt183z6hiWCzOtkp1wgCmnTnR+3YwJrOF4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 19 Dec 2024 00:21:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-cvZE4Atygmt183z6hiWCzOtkp1wgCmnTnR+3YwJrOF4="
+        }
+      ]
+    },
+    {
+      "Route": "css/site.css",
+      "AssetFile": "D:\\GitHubRepository\\ANRazorPages\\obj\\Debug\\net9.0\\compressed\\4g4a11lnco-ho8pgamrxr.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.014705882353"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "67"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"8ErmuDKzoB1pIakEI5E3G6dOGscWhwkjhB0HbvoUo60=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 19 Dec 2024 00:07:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"MZDvCYM0BrB1ak74Oe/VCMHRfA0MHqaMcze1pqEL2dY=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-MZDvCYM0BrB1ak74Oe/VCMHRfA0MHqaMcze1pqEL2dY="
+        }
+      ]
+    },
+    {
+      "Route": "css/site.css",
+      "AssetFile": "D:\\GitHubRepository\\ANRazorPages\\wwwroot\\css\\site.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "47"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"MZDvCYM0BrB1ak74Oe/VCMHRfA0MHqaMcze1pqEL2dY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 19 Dec 2024 00:07:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-MZDvCYM0BrB1ak74Oe/VCMHRfA0MHqaMcze1pqEL2dY="
+        }
+      ]
+    },
+    {
+      "Route": "css/site.css.gz",
+      "AssetFile": "D:\\GitHubRepository\\ANRazorPages\\obj\\Debug\\net9.0\\compressed\\4g4a11lnco-ho8pgamrxr.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "67"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"8ErmuDKzoB1pIakEI5E3G6dOGscWhwkjhB0HbvoUo60=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 19 Dec 2024 00:07:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-8ErmuDKzoB1pIakEI5E3G6dOGscWhwkjhB0HbvoUo60="
+        }
+      ]
+    },
+    {
+      "Route": "css/site.ho8pgamrxr.css",
+      "AssetFile": "D:\\GitHubRepository\\ANRazorPages\\obj\\Debug\\net9.0\\compressed\\4g4a11lnco-ho8pgamrxr.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.014705882353"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "67"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"8ErmuDKzoB1pIakEI5E3G6dOGscWhwkjhB0HbvoUo60=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 19 Dec 2024 00:07:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"MZDvCYM0BrB1ak74Oe/VCMHRfA0MHqaMcze1pqEL2dY=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ho8pgamrxr"
+        },
+        {
+          "Name": "label",
+          "Value": "css/site.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-MZDvCYM0BrB1ak74Oe/VCMHRfA0MHqaMcze1pqEL2dY="
+        }
+      ]
+    },
+    {
+      "Route": "css/site.ho8pgamrxr.css",
+      "AssetFile": "D:\\GitHubRepository\\ANRazorPages\\wwwroot\\css\\site.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "47"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"MZDvCYM0BrB1ak74Oe/VCMHRfA0MHqaMcze1pqEL2dY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 19 Dec 2024 00:07:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ho8pgamrxr"
+        },
+        {
+          "Name": "label",
+          "Value": "css/site.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-MZDvCYM0BrB1ak74Oe/VCMHRfA0MHqaMcze1pqEL2dY="
+        }
+      ]
+    },
+    {
+      "Route": "css/site.ho8pgamrxr.css.gz",
+      "AssetFile": "D:\\GitHubRepository\\ANRazorPages\\obj\\Debug\\net9.0\\compressed\\4g4a11lnco-ho8pgamrxr.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "67"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"8ErmuDKzoB1pIakEI5E3G6dOGscWhwkjhB0HbvoUo60=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 19 Dec 2024 00:07:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ho8pgamrxr"
+        },
+        {
+          "Name": "label",
+          "Value": "css/site.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-8ErmuDKzoB1pIakEI5E3G6dOGscWhwkjhB0HbvoUo60="
+        }
+      ]
+    }
+  ]
 }

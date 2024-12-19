@@ -1,0 +1,28 @@
+﻿<Project>
+  <ItemGroup>
+    <StaticWebAssetEndpoint Include="_content/ANRazorPages/ANRazorPages.bundle.scp.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\ANRazorPages.hp2bjvscjj.bundle.scp.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-dXHYKhJH21Apubfn0qX8HqmkzPMcw9aFxrQz5YxiCIs="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"101"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022dXHYKhJH21Apubfn0qX8HqmkzPMcw9aFxrQz5YxiCIs=\u0022"},{"Name":"Last-Modified","Value":"Thu, 19 Dec 2024 00:21:23 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/ANRazorPages/ANRazorPages.hp2bjvscjj.bundle.scp.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\ANRazorPages.hp2bjvscjj.bundle.scp.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"hp2bjvscjj"},{"Name":"integrity","Value":"sha256-dXHYKhJH21Apubfn0qX8HqmkzPMcw9aFxrQz5YxiCIs="},{"Name":"label","Value":"_content/ANRazorPages/ANRazorPages.bundle.scp.css"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"101"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022dXHYKhJH21Apubfn0qX8HqmkzPMcw9aFxrQz5YxiCIs=\u0022"},{"Name":"Last-Modified","Value":"Thu, 19 Dec 2024 00:21:23 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/ANRazorPages/css/site.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\site.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-MZDvCYM0BrB1ak74Oe/VCMHRfA0MHqaMcze1pqEL2dY="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"47"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022MZDvCYM0BrB1ak74Oe/VCMHRfA0MHqaMcze1pqEL2dY=\u0022"},{"Name":"Last-Modified","Value":"Thu, 19 Dec 2024 00:07:09 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/ANRazorPages/css/site.ho8pgamrxr.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\site.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"ho8pgamrxr"},{"Name":"integrity","Value":"sha256-MZDvCYM0BrB1ak74Oe/VCMHRfA0MHqaMcze1pqEL2dY="},{"Name":"label","Value":"_content/ANRazorPages/css/site.css"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"47"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022MZDvCYM0BrB1ak74Oe/VCMHRfA0MHqaMcze1pqEL2dY=\u0022"},{"Name":"Last-Modified","Value":"Thu, 19 Dec 2024 00:07:09 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+  </ItemGroup>
+</Project>
